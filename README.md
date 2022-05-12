@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiny-Jane
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning in IT-Overone
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me l.byckova@yandex.ru
 
